@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+chkpts/
+datasets/
+data/UDPOS/
+wandb/
+.DS_Store
+__MACOSX/
